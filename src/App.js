@@ -1,5 +1,8 @@
 import React from 'react';
 import './App.css';
+import SithCard from './components/card/index';
+import sith from './sith.json';
+
 
 function App() {
   return (
@@ -7,19 +10,14 @@ function App() {
       <header className="App-header">
         Lego Sith Memory
       </header>
-      <hero className="App-hero">
+      <section className="App-hero">
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-          >
-          Learn React
-        </a>
-      </hero>
+        <SithCard
+          image={sith[0].image}
+        />
+      </section>
     </div>
   );
 }

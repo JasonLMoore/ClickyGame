@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Darth Vader",
-    "img": "./images/download.jpg"
+    "image": "../../images/download.jpg"
   },
   {
     "id": 2,

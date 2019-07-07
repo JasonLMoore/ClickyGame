@@ -6,8 +6,10 @@ function SithCard(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={props.name} src={props.image} />
+        <img url={props.image} alt={props.name} />
       </div>
     </div>
-  )
+  );
 }
+
+export default SithCard;
