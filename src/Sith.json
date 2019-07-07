@@ -2,61 +2,61 @@
   {
     "id": 1,
     "name": "Darth Vader",
-    "image": "../../images/download.jpg"
+    "image": "http://hdqwalls.com/download/new-darth-vader-3z-1920x1080.jpg"
   },
   {
     "id": 2,
     "name": "Darth Maul",
-    "img": "./images/maul.jpg"
+    "img": "https://drdw8nfjvtevv.cloudfront.net/wp-content/uploads/2017/11/hub-darth-maul-xlg.jpg"
   },
   {
     "id": 3,
     "name": "Count Dukoo",
-    "img": "./images/dukoo.jpg"
+    "img": "https://static.comicvine.com/uploads/original/11115/111159437/5883254-5064400100-Count.jpg"
   },
   {
     "id": 4,
     "name": "Darth Sidiouse",
-    "img": "./images/palpy.jpg"
+    "img": "https://wallpapercave.com/wp/wp2066632.jpg"
   },
   {
     "id": 5,
     "name": "Darth Revan",
-    "img": "./images/revan.jpg"
+    "img": "https://mfiles.alphacoders.com/623/623997.png"
   },
   {
     "id": 6,
     "name": "Darth Malak",
-    "img": "./images/malak.jpg"
+    "img": "https://i.imgur.com/icd9vQ1.png"
   },
   {
     "id": 7,
     "name": "Darth Bane",
-    "img": "./images/bane.jpg"
+    "img": "https://wallpapercave.com/wp/wp3608577.jpg"
   },
   {
     "id": 8,
     "name": "Darth Malgus",
-    "img": "./images/malgus.jpg"
+    "img": "https://vignette.wikia.nocookie.net/fotku/images/b/b2/Darth_Malgus.jpg/revision/latest?cb=20150823093739"
   },
   {
     "id": 9,
     "name": "Darth Marr",
-    "img": "./images/marr.jpg"
+    "img": "https://i.pinimg.com/originals/be/b6/d4/beb6d4a200623c548b9d6742d4733950.jpg"
   },
   {
     "id": 10,
     "name": "Darth Nihilus",
-    "img": "./images/nihilus.jpg"
+    "img": "https://images3.alphacoders.com/910/thumb-1920-91005.jpg"
   },
   {
     "id": 11,
     "name": "Darth Scion",
-    "img": "./images/scion.jpg"
+    "img": "http://img2.wikia.nocookie.net/__cb20100218032624/starwars/images/4/41/DarthSion.jpg"
   },
   {
     "id": 12,
     "name": "Kylo Ren",
-    "img": "./images/kylo-ren.jpg"
+    "img": "https://www.wallpapermaiden.com/wallpaper/19242/download/1920x1080/kylo-ren-digital-art.jpg"
   }
 ]

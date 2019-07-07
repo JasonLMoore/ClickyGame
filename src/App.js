@@ -16,6 +16,7 @@ function App() {
         </p>
         <SithCard
           image={sith[0].image}
+          name={sith[0].name}
         />
       </section>
     </div>
