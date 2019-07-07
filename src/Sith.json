@@ -7,56 +7,56 @@
   {
     "id": 2,
     "name": "Darth Maul",
-    "img": "https://drdw8nfjvtevv.cloudfront.net/wp-content/uploads/2017/11/hub-darth-maul-xlg.jpg"
+    "image": "https://drdw8nfjvtevv.cloudfront.net/wp-content/uploads/2017/11/hub-darth-maul-xlg.jpg"
   },
   {
     "id": 3,
     "name": "Count Dukoo",
-    "img": "https://static.comicvine.com/uploads/original/11115/111159437/5883254-5064400100-Count.jpg"
+    "image": "https://static.comicvine.com/uploads/original/11115/111159437/5883254-5064400100-Count.jpg"
   },
   {
     "id": 4,
     "name": "Darth Sidiouse",
-    "img": "https://wallpapercave.com/wp/wp2066632.jpg"
+    "image": "https://wallpapercave.com/wp/wp2066632.jpg"
   },
   {
     "id": 5,
     "name": "Darth Revan",
-    "img": "https://mfiles.alphacoders.com/623/623997.png"
+    "image": "https://mfiles.alphacoders.com/623/623997.png"
   },
   {
     "id": 6,
     "name": "Darth Malak",
-    "img": "https://i.imgur.com/icd9vQ1.png"
+    "image": "https://i.imgur.com/icd9vQ1.png"
   },
   {
     "id": 7,
     "name": "Darth Bane",
-    "img": "https://wallpapercave.com/wp/wp3608577.jpg"
+    "image": "https://wallpapercave.com/wp/wp3608577.jpg"
   },
   {
     "id": 8,
     "name": "Darth Malgus",
-    "img": "https://vignette.wikia.nocookie.net/fotku/images/b/b2/Darth_Malgus.jpg/revision/latest?cb=20150823093739"
+    "image": "https://vignette.wikia.nocookie.net/fotku/images/b/b2/Darth_Malgus.jpg/revision/latest?cb=20150823093739"
   },
   {
     "id": 9,
     "name": "Darth Marr",
-    "img": "https://i.pinimg.com/originals/be/b6/d4/beb6d4a200623c548b9d6742d4733950.jpg"
+    "image": "https://i.pinimg.com/originals/be/b6/d4/beb6d4a200623c548b9d6742d4733950.jpg"
   },
   {
     "id": 10,
     "name": "Darth Nihilus",
-    "img": "https://images3.alphacoders.com/910/thumb-1920-91005.jpg"
+    "image": "https://images3.alphacoders.com/910/thumb-1920-91005.jpg"
   },
   {
     "id": 11,
     "name": "Darth Scion",
-    "img": "http://img2.wikia.nocookie.net/__cb20100218032624/starwars/images/4/41/DarthSion.jpg"
+    "image": "http://img2.wikia.nocookie.net/__cb20100218032624/starwars/images/4/41/DarthSion.jpg"
   },
   {
     "id": 12,
     "name": "Kylo Ren",
-    "img": "https://www.wallpapermaiden.com/wallpaper/19242/download/1920x1080/kylo-ren-digital-art.jpg"
+    "image": "https://www.wallpapermaiden.com/wallpaper/19242/download/1920x1080/kylo-ren-digital-art.jpg"
   }
 ]

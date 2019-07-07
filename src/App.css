@@ -19,3 +19,7 @@ body {
   visibility: visible;
   
 }
+
+.App-hero {
+  padding: 50px;
+}

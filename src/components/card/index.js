@@ -8,6 +8,10 @@ function SithCard(props) {
       <div className="img-container">
         <img src={props.image} alt={props.name} />
       </div>
+      
+      <span onClick={() => props.removeFriend(props.id)} className="remove">
+        𝘅
+      </span>
     </div>
   );
 }
