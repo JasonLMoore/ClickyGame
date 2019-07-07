@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Darth Vader",
+    "img": "./images/download.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Darth Maul",
+    "img": "./images/maul.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Count Dukoo",
+    "img": "./images/dukoo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Darth Sidiouse",
+    "img": "./images/palpy.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Darth Revan",
+    "img": "./images/revan.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Darth Malak",
+    "img": "./images/malak.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Darth Bane",
+    "img": "./images/bane.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Darth Malgus",
+    "img": "./images/malgus.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Darth Marr",
+    "img": "./images/marr.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Darth Nihilus",
+    "img": "./images/nihilus.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Darth Scion",
+    "img": "./images/scion.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Kylo Ren",
+    "img": "./images/kylo-ren.jpg"
+  }
+]
